@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+View my full CV [here](https://dengyinlin.github.io/files/CV-YinlinDeng.pdf).
+
 Education
 ======
 * B.S. in Computer Science and Technology (Turing Class), Peking University, 2021(expected)
